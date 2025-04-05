@@ -1,0 +1,162 @@
+#EXTM3U  
+
+#EXTINF:-1,jio hotstar
+https://ee4ee8c03a26.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.755921704393.channel.LOohfipmCQDP.m3u8
+
+#EXTINF:-1,Star sports 1
+https://www.tbn24.com/api/video/4028_0.m3u8
+
+#EXTINF:-1,T sports 
+https://www.tbn24.com/api/video/4031_0.m3u8
+
+#EXTINF:-1,Star sports 1
+https://streamingxfireflix.vercel.app/api/stream?id=109987.m3u8
+
+#EXTINF:-1,Zee cinema Hd 
+https://streamingxfireflix.vercel.app/api/stream?id=206307.m3u8
+
+#EXTINF:-1,Travelxp hindi
+https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,Whoa That Was Wild (EU)
+https://newsflare-whoathatwaswild-1-eu.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,9xm jawla
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/5680a6e4-5a99-4aa2-8fc0-cb035fec516a/0.m3u8
+
+#EXTINF:-1,Zee Bangla CinemaðŸ‘†
+https://streamingxfireflix.vercel.app/api/stream?id=245897.m3u8
+
+#EXTINF:-1,Star Jalsa HDðŸ‘†
+https://streamingxfireflix.vercel.app/api/stream?id=245898.m3u8
+
+#EXTINF:-1,Jalsa Movies HDðŸ‘†
+https://streamingxfireflix.vercel.app/api/stream?id=245900.m3u8
+
+#EXTINF:-1,Gazi TVðŸ‘†
+https://streamingxfireflix.vercel.app/api/stream?id=245901.m3u8
+
+#EXTINF:-1,Channel 9ðŸ‘†
+https://streamingxfireflix.vercel.app/api/stream?id=245902.m3u8
+
+#EXTINF:-1,NEWS 24ðŸ‘†
+https://streamingxfireflix.vercel.app/api/stream?id=245903.m3u8
+
+#EXTINF:-1,ATN NewsðŸ‘†
+https://streamingxfireflix.vercel.app/api/stream?id=245905.m3u8
+
+#EXTINF:-1,SUN BanglaðŸ‘†
+https://streamingxfireflix.vercel.app/api/stream?id=245906.m3u8
+
+#EXTINF:-1,Asian tvðŸ‘†
+https://streamingxfireflix.vercel.app/api/stream?id=245908.m3u8
+
+#EXTINF:-1,ATN BanglaðŸ‘†
+https://streamingxfireflix.vercel.app/api/stream?id=245909.m3u8
+
+#EXTINF:-1,Bangla TvðŸ‘†
+https://streamingxfireflix.vercel.app/api/stream?id=245910.m3u8
+
+#EXTINF:-1,RtvðŸ‘†
+https://streamingxfireflix.vercel.app/api/stream?id=245911.m3u8
+
+#EXTINF:-1,dbc NewsðŸ‘†
+https://streamingxfireflix.vercel.app/api/stream?id=245914.m3u8
+
+#EXTINF:-1,EKATTOR TV HDðŸ‘†
+https://streamingxfireflix.vercel.app/api/stream?id=245915.m3u8
+
+#EXTINF:-1,independentðŸ‘†
+https://streamingxfireflix.vercel.app/api/stream?id=245916.m3u8
+
+#EXTINF:-1,jamuna tvðŸ‘†
+https://streamingxfireflix.vercel.app/api/stream?id=245917.m3u8
+
+#EXTINF:-1,Mohona tvðŸ‘†
+https://streamingxfireflix.vercel.app/api/stream?id=245920.m3u8
+
+#EXTINF:-1,Btv worldðŸ‘†
+https://streamingxfireflix.vercel.app/api/stream?id=245922.m3u8
+
+#EXTINF:-1,BOISHAKHI TV HDðŸ‘†
+https://streamingxfireflix.vercel.app/api/stream?id=245923.m3u8
+
+#EXTINF:-1,SOMOY tv NEWSðŸ‘†
+https://streamingxfireflix.vercel.app/api/stream?id=245925.m3u8
+
+#EXTINF:-1,Deepto tvðŸ‘†
+https://streamingxfireflix.vercel.app/api/stream?id=245927.m3u8
+
+#EXTINF:-1,AakaashðŸ‘†
+https://streamingxfireflix.vercel.app/api/stream?id=245928.m3u8
+
+#EXTINF:-1,Ananda TVðŸ‘†
+https://streamingxfireflix.vercel.app/api/stream?id=245929.m3u8
+
+#EXTINF:-1,SANGSAD BANGLADESHðŸ‘†
+https://streamingxfireflix.vercel.app/api/stream?id=245940.m3u8
+
+#EXTINF:-1,EKHON TVðŸ‘†
+https://streamingxfireflix.vercel.app/api/stream?id=245943.m3u8
+
+#EXTINF:-1,MOVIE BANGLAðŸ‘†
+https://streamingxfireflix.vercel.app/api/stream?id=245951.m3u8
+
+#EXTINF:-1,ENTER 10 BANGLAðŸ‘†
+https://streamingxfireflix.vercel.app/api/stream?id=245954.m3u8
+
+#EXTINF:-1,DURONTO TVðŸ‘†
+https://streamingxfireflix.vercel.app/api/stream?id=245955.m3u8
+
+#EXTINF:-1,BANGLA VISIONðŸ‘†
+https://streamingxfireflix.vercel.app/api/stream?id=245957.m3u8
+
+#EXTINF:-1,SONY YAY!ðŸ‘†
+https://streamingxfireflix.vercel.app/api/stream?id=245959.m3u8
+
+#EXTINF:-1,NRB TV HDðŸ‘†
+https://streamingxfireflix.vercel.app/api/stream?id=245962.m3u8
+
+#EXTINF:-1,MY TVðŸ‘†
+https://streamingxfireflix.vercel.app/api/stream?id=245964.m3u8
+
+#EXTINF:-1,ATN MUSICðŸ‘†
+https://streamingxfireflix.vercel.app/api/stream?id=245965.m3u8
+
+#EXTINF:-1,DISCOVERY BANGLAðŸ‘†
+https://streamingxfireflix.vercel.app/api/stream?id=245966.m3u8
+
+#EXTINF:-1,NAT GEO BANGLAðŸ‘†
+https://streamingxfireflix.vercel.app/api/stream?id=245967.m3u8
+
+#EXTINF:-1,TRAVELXP BANGLAðŸ‘†
+https://streamingxfireflix.vercel.app/api/stream?id=245968.m3u8
+
+#EXTINF:-1,CHANNEL 24ðŸ‘†
+https://streamingxfireflix.vercel.app/api/stream?id=245969.m3u8
+
+#EXTINF:-1,SONY AATH ðŸ‘†
+https://streamingxfireflix.vercel.app/api/stream?id=245989.m3u8
+
+#EXTINF:-1,Ipl 2025 Bangla
+https://vkvsd62.okcdn.ru/cmaf/8003018426924/sig/3s4fsq4E4ww/srcIp/172.69.95.193/urls/45.136.20.35/expires/1743886029811/clientType/13/srcAg/CHROME/fromCache/1/mid/9344738994988/id/8003018426924/get/CKzW5O77jwIQ6AcYBTIICgYIgAoQ0AU6BAjE2AJaBggDEAIoF2ICCBj1pdV_-hBNvA/track.m3u8
+
+#EXTINF:-1,Adsp Footbal
+https://vps.vffddd.online:8880/adsp1/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1,Espn
+https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/3.m3u8
+
+#EXTINF:-1,Total Sports
+http://cdn1.bmstudiopk.com:1935/totalsports/live/playlist.m3u8
+
+#EXTINF:-1,Willow Cricket Hindi
+http://fcluster.mytvxweb.com:8880/361988/index.m3u8?token=CP3Q3MDSVQVIP
+
+#EXTINF:-1,Tsports
+https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
+
+#EXTINF:-1,Totalsports
+http://cdn1.bmstudiopk.com:1935/totalsports/live/playlist.m3u8
+
+#EXTINF:-1,
