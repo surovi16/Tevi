@@ -1,8 +1,5 @@
 #EXTM3U  
 
-#EXTINF:-1,jio hotstar
-https://ee4ee8c03a26.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.755921704393.channel.LOohfipmCQDP.m3u8
-
 #EXTINF:-1,Star sports 1
 https://www.tbn24.com/api/video/4028_0.m3u8
 
@@ -24,123 +21,6 @@ https://newsflare-whoathatwaswild-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1,9xm jawla
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/5680a6e4-5a99-4aa2-8fc0-cb035fec516a/0.m3u8
 
-#EXTINF:-1,Zee Bangla CinemaðŸ‘†
-https://streamingxfireflix.vercel.app/api/stream?id=245897.m3u8
-
-#EXTINF:-1,Star Jalsa HDðŸ‘†
-https://streamingxfireflix.vercel.app/api/stream?id=245898.m3u8
-
-#EXTINF:-1,Jalsa Movies HDðŸ‘†
-https://streamingxfireflix.vercel.app/api/stream?id=245900.m3u8
-
-#EXTINF:-1,Gazi TVðŸ‘†
-https://streamingxfireflix.vercel.app/api/stream?id=245901.m3u8
-
-#EXTINF:-1,Channel 9ðŸ‘†
-https://streamingxfireflix.vercel.app/api/stream?id=245902.m3u8
-
-#EXTINF:-1,NEWS 24ðŸ‘†
-https://streamingxfireflix.vercel.app/api/stream?id=245903.m3u8
-
-#EXTINF:-1,ATN NewsðŸ‘†
-https://streamingxfireflix.vercel.app/api/stream?id=245905.m3u8
-
-#EXTINF:-1,SUN BanglaðŸ‘†
-https://streamingxfireflix.vercel.app/api/stream?id=245906.m3u8
-
-#EXTINF:-1,Asian tvðŸ‘†
-https://streamingxfireflix.vercel.app/api/stream?id=245908.m3u8
-
-#EXTINF:-1,ATN BanglaðŸ‘†
-https://streamingxfireflix.vercel.app/api/stream?id=245909.m3u8
-
-#EXTINF:-1,Bangla TvðŸ‘†
-https://streamingxfireflix.vercel.app/api/stream?id=245910.m3u8
-
-#EXTINF:-1,RtvðŸ‘†
-https://streamingxfireflix.vercel.app/api/stream?id=245911.m3u8
-
-#EXTINF:-1,dbc NewsðŸ‘†
-https://streamingxfireflix.vercel.app/api/stream?id=245914.m3u8
-
-#EXTINF:-1,EKATTOR TV HDðŸ‘†
-https://streamingxfireflix.vercel.app/api/stream?id=245915.m3u8
-
-#EXTINF:-1,independentðŸ‘†
-https://streamingxfireflix.vercel.app/api/stream?id=245916.m3u8
-
-#EXTINF:-1,jamuna tvðŸ‘†
-https://streamingxfireflix.vercel.app/api/stream?id=245917.m3u8
-
-#EXTINF:-1,Mohona tvðŸ‘†
-https://streamingxfireflix.vercel.app/api/stream?id=245920.m3u8
-
-#EXTINF:-1,Btv worldðŸ‘†
-https://streamingxfireflix.vercel.app/api/stream?id=245922.m3u8
-
-#EXTINF:-1,BOISHAKHI TV HDðŸ‘†
-https://streamingxfireflix.vercel.app/api/stream?id=245923.m3u8
-
-#EXTINF:-1,SOMOY tv NEWSðŸ‘†
-https://streamingxfireflix.vercel.app/api/stream?id=245925.m3u8
-
-#EXTINF:-1,Deepto tvðŸ‘†
-https://streamingxfireflix.vercel.app/api/stream?id=245927.m3u8
-
-#EXTINF:-1,AakaashðŸ‘†
-https://streamingxfireflix.vercel.app/api/stream?id=245928.m3u8
-
-#EXTINF:-1,Ananda TVðŸ‘†
-https://streamingxfireflix.vercel.app/api/stream?id=245929.m3u8
-
-#EXTINF:-1,SANGSAD BANGLADESHðŸ‘†
-https://streamingxfireflix.vercel.app/api/stream?id=245940.m3u8
-
-#EXTINF:-1,EKHON TVðŸ‘†
-https://streamingxfireflix.vercel.app/api/stream?id=245943.m3u8
-
-#EXTINF:-1,MOVIE BANGLAðŸ‘†
-https://streamingxfireflix.vercel.app/api/stream?id=245951.m3u8
-
-#EXTINF:-1,ENTER 10 BANGLAðŸ‘†
-https://streamingxfireflix.vercel.app/api/stream?id=245954.m3u8
-
-#EXTINF:-1,DURONTO TVðŸ‘†
-https://streamingxfireflix.vercel.app/api/stream?id=245955.m3u8
-
-#EXTINF:-1,BANGLA VISIONðŸ‘†
-https://streamingxfireflix.vercel.app/api/stream?id=245957.m3u8
-
-#EXTINF:-1,SONY YAY!ðŸ‘†
-https://streamingxfireflix.vercel.app/api/stream?id=245959.m3u8
-
-#EXTINF:-1,NRB TV HDðŸ‘†
-https://streamingxfireflix.vercel.app/api/stream?id=245962.m3u8
-
-#EXTINF:-1,MY TVðŸ‘†
-https://streamingxfireflix.vercel.app/api/stream?id=245964.m3u8
-
-#EXTINF:-1,ATN MUSICðŸ‘†
-https://streamingxfireflix.vercel.app/api/stream?id=245965.m3u8
-
-#EXTINF:-1,DISCOVERY BANGLAðŸ‘†
-https://streamingxfireflix.vercel.app/api/stream?id=245966.m3u8
-
-#EXTINF:-1,NAT GEO BANGLAðŸ‘†
-https://streamingxfireflix.vercel.app/api/stream?id=245967.m3u8
-
-#EXTINF:-1,TRAVELXP BANGLAðŸ‘†
-https://streamingxfireflix.vercel.app/api/stream?id=245968.m3u8
-
-#EXTINF:-1,CHANNEL 24ðŸ‘†
-https://streamingxfireflix.vercel.app/api/stream?id=245969.m3u8
-
-#EXTINF:-1,SONY AATH ðŸ‘†
-https://streamingxfireflix.vercel.app/api/stream?id=245989.m3u8
-
-#EXTINF:-1,Ipl 2025 Bangla
-https://vkvsd62.okcdn.ru/cmaf/8003018426924/sig/3s4fsq4E4ww/srcIp/172.69.95.193/urls/45.136.20.35/expires/1743886029811/clientType/13/srcAg/CHROME/fromCache/1/mid/9344738994988/id/8003018426924/get/CKzW5O77jwIQ6AcYBTIICgYIgAoQ0AU6BAjE2AJaBggDEAIoF2ICCBj1pdV_-hBNvA/track.m3u8
-
 #EXTINF:-1,Adsp Footbal
 https://vps.vffddd.online:8880/adsp1/tracks-v1a1/mono.ts.m3u8
 
@@ -156,67 +36,181 @@ http://fcluster.mytvxweb.com:8880/361988/index.m3u8?token=CP3Q3MDSVQVIP
 #EXTINF:-1,Tsports
 https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
 
-#EXTINF:-1,Totalsports
-http://cdn1.bmstudiopk.com:1935/totalsports/live/playlist.m3u8
 
-#EXTINF:-1, 1. Somoy TV 
-http://103.163.247.39/local_out/somoytv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1,TSport
+https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 
-#EXTINF:-1, 2. Ananda TV 
-http://103.163.247.39/local_out/anandatv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1, Dipto Tv 
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+
+#EXTINF:-1, Rongeen TV
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Ekushey ETV
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+#EXTINF:-1, My TV
+https://mytvbangla.com/0.m3u8
+
+#EXTINF:-1, Deshi Tv
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+
+#EXTINF:-1,ME TV
+https://iptvbd.live/metv1080/1080.m3u8
+
+#EXTINF:-1, Colors Bangla HD
+https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
+
+#EXTINF:-1,Movie Bangla
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+
+#EXTINF:-1, Enter10 Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+
+#EXTINF:-1,Zee Bangla
+https://catchup.yuppcdn.net/amazonv2/36/preview/zeebangla/master/chunklist.m3u8
+
+#EXTINF:-1,Colors Uk
+https://catchup.yuppcdn.net/amazonv2/36/preview/colorsuk/master/chunklist.m3u8
+
+#EXTINF:-1, ASport
+http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
+
+#EXTINF:-1,Being Sport Extra
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+
+#EXTINF:-1,EuroSport 1
+http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
+
+#EXTINF:-1,RedBull
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1,Ten Sport HD
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+
+#EXTINF:-1,Ten sports 
+https://c4s22.vfruitfairy.com/com3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Aljazeera
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1,Peace Tv English
+https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
+
+#EXTINF:-1,Peace Tv Bangla
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
+
+#EXTINF:-1,Sony aath 
+https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
+
+#EXTINF:-1,Sony aath 
+https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 
 
-#EXTINF:-1, 3. Bijoy TV 
-http://103.163.247.39/local_out/bijoytv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1,Sony Yay
+https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
 
 
-#EXTINF:-1, 4. Green TV 
-http://103.163.247.39/local_out/greentv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1,Sony MAX HD
+https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
 
 
-#EXTINF:-1, 5. Asian TV 
-http://103.163.247.39/local_out/asiantv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1,Sony MAX
+https://tataplay.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8
 
 
-#EXTINF:-1, 6. ATN Bangla 
-http://103.163.247.39/local_out/atnbangla/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1,Sony SAB HD
+https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
 
 
-#EXTINF:-1, 7. ATN News 
-http://103.163.247.39/local_out/atnnews/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1,SET HD
+https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
 
 
-#EXTINF:-1, 8. Bangla TV 
-http://103.163.247.39/local_out/banglatv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1,Sony Pal
+https://tataplay.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
 
 
-#EXTINF:-1, 9. BanglaVision 
-http://103.163.247.39/local_out/banglavision/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1,Sony MAX 2
+https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
 
 
-#EXTINF:-1, 10. BTV 
-http://103.163.247.39/local_out/btv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1,Sony WAH
+https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
 
 
-#EXTINF:-1, 11. Jamuna TV 
-http://103.163.247.39/local_out/jamunatv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1,Sony PIX HD
+https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 
 
-#EXTINF:-1, 12. Independent TV 
-http://103.163.247.39/local_out/independenttv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1,Sony BBC Earth HD
+https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
 
+#EXTINF:-1,bein1
+https://dffgtrdd.vffddd.online/bein1/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1, 13. Channel 24 
-http://103.163.247.39/local_out/channel24/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1,Zing
+https://live.drmlive-02.workers.dev/zee/zing.m3u8
 
+#EXTINF:-1,Zee Bangla
+https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
 
-#EXTINF:-1, 14. News24 BD 
-http://103.163.247.39/local_out/news24bd/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1,Zee Cinema
+https://live.drmlive-02.workers.dev/zee/zeecinemahd.m3u8
 
+#EXTINF:-1,SSC
+https://stream.sainaertebat.com/hls2/ssc1.m3u8
 
-#EXTINF:-1, 15. Ekhon TV 
-http://103.163.247.39/local_out/ekhontv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1,solhsport
+https://stream.sainaertebat.com/hls2/solhtv.m3u8
 
+#EXTINF:-1,PTV
+https://c4s22.vfruitfairy.com/com1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, 16. Ekattor TV 
-http://103.163.247.39/local_out/ekattortv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1,masranga tv
+http://103.230.105.252:1935/live/masranga/index.m3u8
+
+#EXTINF:-1,Channel : Travelxp
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
+
+#EXTINF:-1,Peace Tv Bangla
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1,DISCOVERY CHANNEL
+http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
+
+#EXTINF:-1,Yrf Music 
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
+
+#EXTINF:-1,Love Nature 
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1,Bollywood Masala
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-masala/7cce868a-aaaa-4b93-836b-c704b09814b8/0.m3u8
+
+#EXTINF:-1,9XM Jalwa
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/5680a6e4-5a99-4aa2-8fc0-cb035fec516a/0.m3u8
+
+#EXTINF:-1,Hum Sitaray
+https://live.thebosstv.com:30443/dwlive/HUM-SITARAY/playlist.m3u8
+
+#EXTINF:-1,EXP-ENTERTAINMENT
+https://live.thebosstv.com:30443/dwlive/EXP-ENTERTAINMENT/playlist.m3u8
+
+#EXTINF:-1,AAKAASH-AATH
+https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/playlist.m3u8
+
+#EXTINF:-1,Movie Bangla
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+
+#EXTINF:-1,DEPTO BANGLA HD
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
+#EXTINF:-1,RogeenTV
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,MAASRANGA TV HD
+https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Mastii (Yupp TV ) 
+https://sabliveyupp.akamaized.net/mastii/playlist.m3u8
+
