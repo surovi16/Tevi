@@ -1,122 +1,95 @@
 #EXTM3U  
 
-#EXTINF:-1,Colors Bangla
-http://38.96.178.201/live/ColorsBangla/index.m3u8
+#EXTINF:-1,- Tsports
+http://172.20.2.5:8082/T-SPORTS/tracks-v1a1/mono.m3u8  
+ 
+#EXTINF:-1,- Star Sports 1
+http://172.16.29.3:8090/hls/starsports1hd.m3u8
 
-#EXTINF:-1,Dhoom Music
-http://38.96.178.201/live/Dhoom/index.m3u8
+#EXTINF:-1,- Tsports (App)
+http://172.16.29.3:8090/hls/tsportshd_feed2.m3u8 
 
-#EXTINF:-1,Ruposhi Bangla
-http://38.96.178.201/live/RuposhiBangla/index.m3u8
+#EXTINF:-1,Tsports
+http://172.16.29.3:8090/hls/tsportshd.m3u8 
+ 
+#EXTINF:-1,- Tsports
+http://10.10.10.2/live/fnf001/index.m3u8
 
-#EXTINF:-1,Sangeet Bangla
-http://38.96.178.201/live/SangeetBangla/index.m3u8
+#EXTINF:-1,- GTV
+http://10.10.10.2/live/fnf003/index.m3u8 
 
-#EXTINF:-1,Sony AATH
-http://38.96.178.201/live/SonyAath/index.m3u8
+#EXTINF:-1,- Ten Cricket
+http://10.10.10.2/live/fnf004/index.m3u8 
 
-#EXTINF:-1,T Sports
-http://38.96.178.201/live/TSports/index.m3u8
+#EXTINF:-1,Zee bangla
+http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
 
-#EXTINF:-1,DD Sports
-http://38.96.178.201/live/DDSports/index.m3u8
+#EXTINF:-1,Animal planet
+http://212.102.60.231:80/Animal_Planet/index.m3u8
 
-#EXTINF:-1,ATN Bangla
-http://38.96.178.201/live/ATNBangla/index.m3u8
+#EXTINF:-1,mtv
+http://212.102.60.231:80/MTV_LIVE/index.m3u8
 
-#EXTINF:-1,ATN News
-http://38.96.178.201/live/ATNNews/index.m3u8
+#EXTINF:-1,T SPORTS 
+https://www.tbn24.com/api/video/4031_0.m3u8
 
-#EXTINF:-1,Bangla TV
-http://38.96.178.201/live/BanglaTV/index.m3u8
+#EXTINF:-1,T SPORTS 
+https://cdn.hoichoi24.com/LIVE/video.m3u8
 
-#EXTINF:-1,BanglaVision
-http://38.96.178.201/live/BanglaVision/index.m3u8
+#EXTINF:-1,SONY SPORTS 1
+https://tataplay.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8
 
-#EXTINF:-1,Bijoy TV
-http://38.96.178.201/live/BijoyTV/index.m3u8
+#EXTINF:-1,Being3
+https://dffgtrdc.vffddd.online:443/bein3/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1,BTV
-http://38.96.178.201/live/BTV/index.m3u8
 
-#EXTINF:-1,Ekhon TV
-http://38.96.178.201/live/EkhonTV/index.m3u8
 
-#EXTINF:-1,NTV
-http://38.96.178.201/live/NTV/index.m3u8
 
-#EXTINF:-1,Gaan Bangla
-http://38.96.178.201/live/GaanBangla/index.m3u8
 
-#EXTINF:-1,Independent
-http://38.96.178.201/live/Independent/index.m3u8
 
-#EXTINF:-1,Nexus TV
-http://38.96.178.201/live/NexusTV/index.m3u8
 
-#EXTINF:-1,SATV
-http://38.96.178.201/live/SATV/index.m3u8
 
-#EXTINF:-1,Sony HD
-http://38.96.178.201/live/SonyHD/index.m3u8
 
-#EXTINF:-1,&TV
-http://38.96.178.201/live/AndTV/index.m3u8
 
-#EXTINF:-1,B4U Music
-http://38.96.178.201/live/B4UMusic/index.m3u8
 
-#EXTINF:-1,Star Plus
-http://38.96.178.201/live/StarPlus/index.m3u8
 
-#EXTINF:-1,Star Gold
-http://38.96.178.201/live/StarGold/index.m3u8
 
-#EXTINF:-1,Zing
-http://38.96.178.201/live/Zing/index.m3u8
 
-#EXTINF:-1,Disney
-http://38.96.178.201/live/Disney/index.m3u8
 
-#EXTINF:-1,SONY
-http://38.96.178.201/live/SONY/index.m3u8
 
-#EXTINF:-1,Disney XD
-http://38.96.178.201/live/DisneyXD/index.m3u8
 
-#EXTINF:-1,Nick Jr
-http://38.96.178.201/live/NickJr/index.m3u8
 
-#EXTINF:-1,Akash AATH
-http://38.96.178.201/live/AkashAath/index.m3u8
 
-#EXTINF:-1,Colors Bangla
-http://38.96.178.201/live/ColorsBangla/index.m3u8
 
-#EXTINF:-1,Star Jalsha HD
-http://38.96.178.201/live/STARJALSHA/index.m3u8
 
-#EXTINF:-1,Jalsha Movies HD
-http://38.96.178.201/live/JalshaMovies/index.m3u8
 
-#EXTINF:-1,Sangeet Bangla
-http://38.96.178.201/live/SangeetBangla/index.m3u8
 
-#EXTINF:-1,Sony AATH
-http://38.96.178.201/live/SonyAath/index.m3u8
 
-#EXTINF:-1,Channel 9
-http://38.96.178.201/live/Channel9/index.m3u8
 
-#EXTINF:-1,Channel i
-http://38.96.178.201/live/ChannelI/index.m3u8
 
-#EXTINF:-1,Channel S
-http://38.96.178.201/live/ChannelS/index.m3u8
 
-#EXTINF:-1,Ekhon TV
-http://38.96.178.201/live/EkhonTV/index.m3u8
 
-#EXTINF:-1,Jamuna TV
-http://38.96.178.201/live/JamunaTV/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
