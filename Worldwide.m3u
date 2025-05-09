@@ -341,3 +341,26 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 http://fcluster.mytvxweb.com:8880/361988/index.m3u8?token=CP3Q3MDSVQVIP
 
 
+
+
+
+#EXTINF:-1,T Play Movies (24/7 Movies)
+https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
+
+#EXTINF:-1,T Play Kids (24/7 Gopal Bhar)
+https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
+
+#EXTINF:-1,T Play Waz (24/7 Bangla Waz)
+https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
+
+#EXTINF:-1,T Play Kirtan (24/7 Bangla Kirtan)
+https://cloudfrontnet.vercel.app/tplay/playout/209618/master.m3u8
+
+#EXTINF:-1,T Play Dramas (24/7 Bangla Dramas)
+https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
+
+#EXTINF:-1,T Play Music (24/7 Bangla Songs)
+https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
+
+#EXTINF:-1,T Play Music (24/7 Hindi Songs)
+https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
