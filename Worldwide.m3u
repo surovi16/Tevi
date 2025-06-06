@@ -21,7 +21,7 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1,ME TV
 https://iptvbd.live/metv1080/1080.m3u8
 
-#EXTINF:-1,- GTV
+#EXTINF:-1,- Tsport
 http://10.10.10.2/live/fnf003/index.m3u8 
 
 #EXTINF:-1, Dipto Tv 
@@ -80,6 +80,49 @@ http://38.96.178.201/live/JamunaTV/index.m3u8
 
 #EXTINF:-1,T Sports
 http://38.96.178.201/live/TSports/index.m3u8
+
+
+#new Added Links
+
+#EXTINF:-1 tvg-id="93" group-title="News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739962961772.png",ATN News 
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1706/output/index.m3u8
+
+
+#EXTINF:-1 tvg-id="94" group-title="News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png",Channel 24 HD 
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1703/output/index.m3u8
+
+#EXTINF:-1 tvg-id="98" group-title="News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png",Somoy TV 
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1702/output/index.m3u8
+
+#EXTINF:-1 tvg-id="13" tvg-logo="https://s3.aynaott.com/storage/51a07e1b00483f51e0bd53a30f2c4c13", Boishakhi TV
+https://ayna-three.vercel.app/api/stream/92890d5c-473a-454c-ad10-2c6c0c91062a.m3u8
+
+#EXTINF:-1 tvg-id="12" tvg-logo="https://s3.aynaott.com/storage/82a90bc541e05dcfdd05f4f84b1ad0a1", Desh TV
+https://ayna-three.vercel.app/api/stream/dd8c50e9-5dad-4cb9-9df8-5763e95281ad.m3u8
+
+#EXTINF:-1 tvg-id="33" tvg-logo="https://s3.aynaott.com/storage/aa4fd179581acb998adc029d5b0a5fc8", Ananda TV
+https://ayna-three.vercel.app/api/stream/a108c4e9-ccfa-42f2-8f8f-169ded28cca2.m3u8
+
+#EXTINF:-1 tvg-id="16" tvg-logo="https://s3.aynaott.com/storage/0fd66b697ff9717751acf57347acb615", Asian TV
+https://ayna-three.vercel.app/api/stream/4d629b90-cfc2-4426-9eef-62b879efdb02.m3u8
+
+#EXTINF:-1 tvg-id="11" tvg-logo="https://s3.aynaott.com/storage/ee760ffef5e5259d5ccbf5c3441fcde3", Gazi TV
+https://ayna-three.vercel.app/api/stream/b1808fb2-8892-49dc-965e-d038e5334995.m3u8
+
+#EXTINF:-1 tvg-id="23" tvg-logo="https://s3.aynaott.com/storage/71206b9bbc2b330b346564a9369a20d9", Duronto TV
+https://ayna-three.vercel.app/api/stream/9ab9aa29-3d3b-4527-ab47-d9b69f0ea80c.m3u8
+
+#EXTINF:-1 tvg-id="20" tvg-logo="https://s3.aynaott.com/storage/bd294eb45333642d627ce136d9cade93", DBC News
+https://ayna-three.vercel.app/api/stream/0875f2c8-2043-499b-9472-2872412a6340.m3u8
+
+
+
+
+
+
+
+
+
 
 
 
@@ -273,6 +316,99 @@ https://live.thebosstv.com:30443/dwlive/HUM-SITARAY/playlist.m3u8
 
 #EXTINF:-1,EXP-ENTERTAINMENT
 https://live.thebosstv.com:30443/dwlive/EXP-ENTERTAINMENT/playlist.m3u8
+
+#zee5
+#EXTINF:-1,zeeanmol
+https://live.drmlive-02.workers.dev/zee/0-9-zeeanmol.m3u8
+
+#EXTINF:-1,zeecinemahd
+https://live.drmlive-02.workers.dev/zee/0-9-zeecinemahd.m3u8
+
+#EXTINF:-1,bigmagic
+https://live.drmlive-02.workers.dev/zee/0-9-bigmagic_1786965389.m3u8
+
+#EXTINF:-1,zing
+https://live.drmlive-02.workers.dev/zee/0-9-zing.m3u8
+
+#EXTINF:-1,zeetvhd
+https://live.drmlive-02.workers.dev/zee/0-9-zeetvhd.m3u8
+
+#EXTINF:-1,&tvhd
+https://live.drmlive-02.workers.dev/zee/0-9-tvhd_0.m3u8
+
+#EXTINF:-1,b4u movies
+https://mix.drmlive.net/mix/xiaomi-66224.m3u8
+
+#EXTINF:-1,&tvpictureshd
+https://live.drmlive-02.workers.dev/zee/0-9-tvpictureshd.m3u8
+
+#EXTINF:-1,zeeanmolcinema
+https://live.drmlive-02.workers.dev/zee/0-9-zeeanmolcinema.m3u8
+
+#EXTINF:-1,zeecbollywood
+https://live.drmlive-02.workers.dev/zee/0-9-zeeclassic.m3u8
+
+#EXTINF:-1,&pictures
+https://live.drmlive-02.workers.dev/zee/0-9-pictures.m3u8
+
+#EXTINF:-1,zeecinema
+https://live.drmlive-02.workers.dev/zee/0-9-zeecinema.m3u8
+
+#EXTINF:-1,zeeaction
+https://live.drmlive-02.workers.dev/zee/0-9-zeeaction.m3u8
+
+#EXTINF:-1,&flixhd
+https://live.drmlive-02.workers.dev/zee/0-9-channel_2105335046.m3u8
+
+#EXTINF:-1,zeeclasic
+https://live.drmlive-02.workers.dev/zee/0-9-176.m3u8
+
+#EXTINF:-1,&xplorhd
+https://live.drmlive-02.workers.dev/zee/0-9-209.m3u8
+
+#EXTINF:-1,zeeanmolcinema2
+https://live.drmlive-02.workers.dev/zee/0-9-bigganga.m3u8
+
+#EXTINF:-1,zeetv
+https://live.drmlive-02.workers.dev/zee/0-9-zeetv.m3u8
+
+#EXTINF:-1,zeecafehd
+https://live.drmlive-02.workers.dev/zee/0-9-zeecafehd.m3u8
+
+#EXTINF:-1,zeebanglahd
+https://live.drmlive-02.workers.dev/zee/0-9-zeebangla.m3u8
+
+#EXTINF:-1,zeebangla
+https://live.drmlive-02.workers.dev/zee/0-9-9z5383484.m3u8
+
+#EXTINF:-1,zeebanglacinema
+https://live.drmlive-02.workers.dev/zee/0-9-zeebanglacinema.m3u8
+
+#EXTINF:-1,zeecinemalu
+https://live.drmlive-02.workers.dev/zee/0-9-zeecinemalu.m3u8
+
+#EXTINF:-1,zee
+https://live.drmlive-02.workers.dev/zee/0-9-215.m3u8
+
+#EXTINF:-1,zeezest
+https://live.drmlive-02.workers.dev/zee/0-9-348.m3u8
+
+#EXTINF:-1,
+
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
 
 
 
