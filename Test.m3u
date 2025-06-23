@@ -1,70 +1,146 @@
 #EXTM3U  
 
-#EXTINF:-1,- Tsports
-http://172.20.2.5:8082/T-SPORTS/tracks-v1a1/mono.m3u8  
- 
-#EXTINF:-1,- Star Sports 1
-http://172.16.29.3:8090/hls/starsports1hd.m3u8
+#EXTINF:-1, Disney jr 
+http://212.102.60.231/DISNEY_JR/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,- Tsports (App)
-http://172.16.29.3:8090/hls/tsportshd_feed2.m3u8 
+#EXTINF:-1, Madani channel Bangla
+https://ap02.iqplay.tv:8082/iqb8002/m@d@n1ch@nn3lb@ngl@/playlist.m3u8
 
-#EXTINF:-1,Tsports
-http://172.16.29.3:8090/hls/tsportshd.m3u8 
- 
-#EXTINF:-1,- Tsports
-http://10.10.10.2/live/fnf001/index.m3u8
+#EXTINF:-1, Iqra Bangla
+https://ap02.iqplay.tv:8082/iqb8002/iq53la/playlist.m3u8
 
-#EXTINF:-1,- GTV
-http://10.10.10.2/live/fnf003/index.m3u8 
+#EXTINF:-1, Tv one
+https://ap02.iqplay.tv:8082/iqb8002/tv01/playlist.m3u8
 
-#EXTINF:-1,- Ten Cricket
-http://10.10.10.2/live/fnf004/index.m3u8 
+#EXTINF:-1, Deen tv 
+https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
 
-#EXTINF:-1,Zee bangla
-http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
+#EXTINF:-1, Channel s UK
+https://cdn149.anystream.uk:8082/g1/tvchsuk03/chunks.m3u8
 
-#EXTINF:-1,Animal planet
-http://212.102.60.231:80/Animal_Planet/index.m3u8
+#EXTINF:-1, Ntv UK
+https://ap02.iqplay.tv:8082/iqb8002/nt589v/chunks.m3u8
 
-#EXTINF:-1,mtv
-http://212.102.60.231:80/MTV_LIVE/index.m3u8
+#EXTINF:-1, ATN Bangla Uk
+https://ap02.iqplay.tv:8082/iqb8002/atbla85/playlist.m3u8
 
-#EXTINF:-1,T SPORTS 
-https://www.tbn24.com/api/video/4031_0.m3u8
+#EXTINF:-1, Lon tv UK
+https://ap02.iqplay.tv:8082/iqb8002/io9mhtvtv/chunks.m3u8
 
-#EXTINF:-1,T SPORTS 
-https://cdn.hoichoi24.com/LIVE/video.m3u8
+#EXTINF:-1, Q tv
+https://ap02.iqplay.tv:8082/iqb8002/@ryq7vtv/chunks.m3u8
 
-#EXTINF:-1,SONY SPORTS 1
-https://tataplay.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8
+#EXTINF:-1, Ary QTv
+https://cdn149.anystream.uk:8082/app/qtvglmb/playlist.m3u8
 
-#EXTINF:-1,Being3
-https://dffgtrdc.vffddd.online:443/bein3/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1,T SPORTS 
-http://38.96.178.201/live/TSports/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Noor TV
+https://ap02.iqplay.tv:8082/iqb8002/n0r1vmhtv/playlist.m3u8
 
 
+#EXTINF:-1, Taqbeer tv
+https://ap02.iqplay.tv:8082/takbeerasia/takbeertvpk/playlist.m3u8
+
+#EXTINF:-1, Billal tv
+https://ap02.iqplay.tv:8082/iqb8002/bil77tv/playlist.m3u8
+
+#EXTINF:-1, Hilaal Tv
+https://cdn149.anystream.uk:8082/app/h199ltv/playlist.m3u8
+
+#EXTINF:-1, Iqra tv uk
+https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/chunks.m3u8
+
+#EXTINF:-1, Islam tv
+https://ap02.iqplay.tv:8082/iqb8002/i6sl9m/playlist.m3u8
+
+#EXTINF:-1, Madani Channel English
+https://ap02.iqplay.tv:8082/iqb8002/madanimhtv/playlist.m3u8
+
+#EXTINF:-1, Saudi Quran tv
+https://ap02.iqplay.tv:8082/iqb8002/mec31mhtvtv/playlist.m3u8
 
 
+#EXTINF:-1, Movie Bangla
+http://alvetv.com/mbtv/8080/index.m3u8
+
+#EXTINF:-1, Hindi language
+http://103.112.62.87/Candy_Live/vstream.m3u8?id=6789650f5629&e=.m3u8
+
+#EXTINF:-1, &TV (1080p)
+https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
+
+#EXTINF:-1, Sangeet Bhojpuri
+https://tiger-hub.vercel.app/Sangeet-bhojpuri/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Samay Bangla
+https://tiger-hub.vercel.app/Somoy-bangla/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Salam Bangla
+https://tiger-hub.vercel.app/Salam-bangla-islamic/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Remix Bangla tv
+https://tiger-hub.vercel.app/Remex-bangla/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, All movie
+https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
+
+#EXTINF:-1, Bangla drama
+https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
+
+#EXTINF:-1, Bangla gan
+https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1, 24/7 Hindi Movies
+https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
+#EXTINF:-1, 24/7 Bangla Movies
+https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
+#EXTINF:-1, 24/7 Dubbed Movies
+https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
+#EXTINF:-1, 24/7 Bangla Waz
+https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
+#EXTINF:-1, 24/7 Bangla Kirtan
+https://cloudfrontnet.vercel.app/tplay/playout/209618/master.m3u8
+#EXTINF:-1, 24/7 Bantul The Great
+https://cloudfrontnet.vercel.app/tplay/playout/209869/master.m3u8
+#EXTINF:-1, 24/7 Gopal Bhar
+https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
+#EXTINF:-1, 24/7 Motu Patlu
+https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
+#EXTINF:-1, 24/7 Shinchan
+https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8
+#EXTINF:-1, 24/7 Doraemon
+https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
+#EXTINF:-1, 24/7 Hindi Songs
+https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
+#EXTINF:-1, 24/7 Bangla Songs
+https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
+#EXTINF:-1, All Time Movies
+https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
+#EXTINF:-1, Kolkata Movies
+https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
+#EXTINF:-1, Bangla Drams
+https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
+#EXTINF:-1, Bangla Music
+https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
+#EXTINF:-1, Hindi Music
+https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
+#EXTINF:-1, Gopal Bhar
+https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
+#EXTINF:-1, Animal plant
+http://195.189.60.31:8003/play/a0gk/index.m3u8
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
 
 
 
