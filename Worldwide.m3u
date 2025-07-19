@@ -36,93 +36,55 @@ http://10.10.10.2/live/fnf003/index.m3u8
 #EXTINF:-1, Dipto Tv 
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 
-#EXTINF:-1,ATN Bangla
-http://38.96.178.201/live/ATNBangla/index.m3u8
 
-#EXTINF:-1,ATN News
-http://38.96.178.201/live/ATNNews/index.m3u8
-
-#EXTINF:-1,Bangla TV
-http://38.96.178.201/live/BanglaTV/index.m3u8
-
-#EXTINF:-1,BanglaVision
-http://38.96.178.201/live/BanglaVision/index.m3u8
-
-#EXTINF:-1,Bijoy TV
-http://38.96.178.201/live/BijoyTV/index.m3u8
-
-#EXTINF:-1,BTV
-http://38.96.178.201/live/BTV/index.m3u8
-
-#EXTINF:-1,Ekhon TV
-http://38.96.178.201/live/EkhonTV/index.m3u8
-
-#EXTINF:-1,NTV
-http://38.96.178.201/live/NTV/index.m3u8
-
-#EXTINF:-1,Gaan Bangla
-http://38.96.178.201/live/GaanBangla/index.m3u8
-
-#EXTINF:-1,Independent
-http://38.96.178.201/live/Independent/index.m3u8
-
-#EXTINF:-1,Nexus TV
-http://38.96.178.201/live/NexusTV/index.m3u8
-
-#EXTINF:-1,SATV
-http://38.96.178.201/live/SATV/index.m3u8
-
-#EXTINF:-1,Channel 9
-http://38.96.178.201/live/Channel9/index.m3u8
-
-#EXTINF:-1,Channel i
-http://38.96.178.201/live/ChannelI/index.m3u8
-
-#EXTINF:-1,Channel S
-http://38.96.178.201/live/ChannelS/index.m3u8
-
-#EXTINF:-1,Ekhon TV
-http://38.96.178.201/live/EkhonTV/index.m3u8
-
-#EXTINF:-1,Jamuna TV
-http://38.96.178.201/live/JamunaTV/index.m3u8
-
-#EXTINF:-1,T Sports
-http://38.96.178.201/live/TSports/index.m3u8
 
 
 #new Added Links
 
-#EXTINF:-1 tvg-id="93" group-title="News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739962961772.png",ATN News 
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1706/output/index.m3u8
+#EXTINF:-1 Channel 24
+https://tvsen6.aynaott.com/channel24/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 INDEPENDENT TV
+https://tvsen6.aynaott.com/independenttv/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 JAMUNA TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8
+
+#EXTINF:-1 DBC News
+https://tvsen6.aynaott.com/dbcnews/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 ATN NEWS [BD]
+https://tvsen6.aynaott.com/atnnews/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 NTV
+https://tvsen5.aynaott.com/xV4jEKf3D9zc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 RTV
+https://tvsen6.aynaott.com/rtv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 Banglavision
+https://tvsen5.aynaott.com/tgUzpPc9r6xw/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 SATV
+https://tvsen6.aynaott.com/satv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 T SPORTS 
+https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
+#EXTINF:-1 Channel 24
+https://tvsen6.aynaott.com/channel24/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 INDEPENDENT TV
+https://tvsen6.aynaott.com/independenttv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 JAMUNA TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8
+#EXTINF:-1 DBC News
+https://tvsen6.aynaott.com/dbcnews/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 ATN NEWS [BD]
+https://tvsen6.aynaott.com/atnnews/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 NTV
+https://tvsen5.aynaott.com/xV4jEKf3D9zc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 RTV
+https://tvsen6.aynaott.com/rtv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 Banglavision
+https://tvsen5.aynaott.com/tgUzpPc9r6xw/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 SATV
+https://tvsen6.aynaott.com/satv/tracks-v1a1/mono.ts.m3u8
 
 
-#EXTINF:-1 tvg-id="94" group-title="News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png",Channel 24 HD 
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1703/output/index.m3u8
-
-#EXTINF:-1 tvg-id="98" group-title="News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png",Somoy TV 
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1702/output/index.m3u8
-
-#EXTINF:-1 tvg-id="13" tvg-logo="https://s3.aynaott.com/storage/51a07e1b00483f51e0bd53a30f2c4c13", Boishakhi TV
-https://ayna-three.vercel.app/api/stream/92890d5c-473a-454c-ad10-2c6c0c91062a.m3u8
-
-#EXTINF:-1 tvg-id="12" tvg-logo="https://s3.aynaott.com/storage/82a90bc541e05dcfdd05f4f84b1ad0a1", Desh TV
-https://ayna-three.vercel.app/api/stream/dd8c50e9-5dad-4cb9-9df8-5763e95281ad.m3u8
-
-#EXTINF:-1 tvg-id="33" tvg-logo="https://s3.aynaott.com/storage/aa4fd179581acb998adc029d5b0a5fc8", Ananda TV
-https://ayna-three.vercel.app/api/stream/a108c4e9-ccfa-42f2-8f8f-169ded28cca2.m3u8
-
-#EXTINF:-1 tvg-id="16" tvg-logo="https://s3.aynaott.com/storage/0fd66b697ff9717751acf57347acb615", Asian TV
-https://ayna-three.vercel.app/api/stream/4d629b90-cfc2-4426-9eef-62b879efdb02.m3u8
-
-#EXTINF:-1 tvg-id="11" tvg-logo="https://s3.aynaott.com/storage/ee760ffef5e5259d5ccbf5c3441fcde3", Gazi TV
-https://ayna-three.vercel.app/api/stream/b1808fb2-8892-49dc-965e-d038e5334995.m3u8
-
-#EXTINF:-1 tvg-id="23" tvg-logo="https://s3.aynaott.com/storage/71206b9bbc2b330b346564a9369a20d9", Duronto TV
-https://ayna-three.vercel.app/api/stream/9ab9aa29-3d3b-4527-ab47-d9b69f0ea80c.m3u8
-
-#EXTINF:-1 tvg-id="20" tvg-logo="https://s3.aynaott.com/storage/bd294eb45333642d627ce136d9cade93", DBC News
-https://ayna-three.vercel.app/api/stream/0875f2c8-2043-499b-9472-2872412a6340.m3u8
 
 
 
@@ -133,20 +95,20 @@ https://ayna-three.vercel.app/api/stream/0875f2c8-2043-499b-9472-2872412a6340.m3
 
 
 
+#EXTINF:-1, Star jalsha
+https://tiger-hub.vercel.app/Star-jalsha/tracks-v1a1/mono.ts.m3u8
 
-
-
-#EXTINF:-1,Star Jalsha HD
-http://38.96.178.201/live/STARJALSHA/index.m3u8
-
-#EXTINF:-1,Jalsha Movies HD
-http://38.96.178.201/live/JalshaMovies/index.m3u8
+#EXTINF:-1, Jalsha movies
+https://tiger-hub.vercel.app/Jalsha_movies/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1,Zee Bangla
 https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
 
-#EXTINF:-1,Colors HD Bangla
-http://38.96.178.201/live/ColorsBangla/index.m3u8
+#EXTINF:-1, Colors bangla
+https://tiger-hub.vercel.app/Colors_bangla/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Colors Bangla Cinema
+https://tiger-hub.vercel.app/Colors-bangla-cinema/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1, Colors Bangla HD
 https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
@@ -162,6 +124,145 @@ http://10.10.10.2/live/fnf002/index.m3u8
 
 #EXTINF:-1,Zee bangla
 http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
+
+#EXTINF:-1, Sun Bangla
+https://tiger-hub.vercel.app/Sun-bangla/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Sony Aath
+https://tiger-hub.vercel.app/Sony-aath/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Sangeet Bangla
+https://tiger-hub.vercel.app/Sangeet-Bangla/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Zee Bangla
+https://tiger-hub.vercel.app/Zee-bangla/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Zee Bangla Cinema
+https://tiger-hub.vercel.app/Zee-bangla-Cinema/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, National Geographic Bangla
+https://tiger-hub.vercel.app/National-Geographic_Bangla/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Discovery Bangla
+https://tiger-hub.vercel.app/Discovery-Bangla/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Star plus
+https://tiger-hub.vercel.app/Star-plus/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Star Barat
+https://tiger-hub.vercel.app/Star-Barat/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Star Gold
+https://tiger-hub.vercel.app/Star-Gold/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Star gold select
+https://tiger-hub.vercel.app/Star-gold__Select/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Star utsab
+https://tiger-hub.vercel.app/Star-_-Utsab/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Star utsab movies
+https://tiger-hub.vercel.app/Star__utsab--movies/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, & TV
+https://tiger-hub.vercel.app/&TV/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, & picture
+https://tiger-hub.vercel.app/&Picture/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, B4U movie
+https://tiger-hub.vercel.app/B4U-movie/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, B4U music
+https://tiger-hub.vercel.app/B4U-music/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Color Cineplex
+https://tiger-hub.vercel.app/Colors-Cineplex/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Colors TV
+https://tiger-hub.vercel.app/Colors-TV/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, History tv Hindy
+https://tiger-hub.vercel.app/History-tv-18_Hindy/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Zee Action
+https://tiger-hub.vercel.app/Zee--_action-/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Zee Anmool
+https://tiger-hub.vercel.app/Zee::Anmol_/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Zee anmool Cinema
+https://tiger-hub.vercel.app/Zee__anmoL-Cinema_/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Zee cinema
+https://tiger-hub.vercel.app/Zee-Cinema-__/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Zee TV
+https://tiger-hub.vercel.app/Zee___tv-/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Zing
+https://tiger-hub.vercel.app/Zi-ng_/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Zing
+https://tiger-hub.vercel.app/Zoom-_-TV/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Sony Aath
+https://tiger-hub.vercel.app/SONY/Aath/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Sony BBC Earth
+https://tiger-hub.vercel.app/SONY/BBC_Earth/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Sony BBC Earth English
+https://tiger-hub.vercel.app/SONY/BBC-Earth-Eng/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Sony Entertainment
+https://tiger-hub.vercel.app/SONY/Entertainment/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Sony Entertainment UK
+https://tiger-hub.vercel.app/SONY/EntertainmentUK/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Sony Max
+https://tiger-hub.vercel.app/SONY/Max/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Sony Max UK
+https://tiger-hub.vercel.app/SONY/MaxUK/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Sony Max 2
+https://tiger-hub.vercel.app/SONY/Max2/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Sony Max-2 UK
+https://tiger-hub.vercel.app/SONY/MaxUK-2/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Sony Movies USA
+https://tiger-hub.vercel.app/SONY/MoviesUS/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Sony Movies UK
+https://tiger-hub.vercel.app/SONY/MoviesUK/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Sony pix
+https://tiger-hub.vercel.app/SONY/Pix/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Sony Sab
+https://tiger-hub.vercel.app/SONY/SAB/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1,  Sony Sab UK
+https://tiger-hub.vercel.app/SONY/SAB-UK/tracks-v1a1/mono.ts.m3u8
+ 
+#EXTINF:-1, Sony sports 1
+https://tiger-hub.vercel.app/SONY/Sports-1/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Sony sports 2
+https://tiger-hub.vercel.app/SONY/Sports-2/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Sony sports 5
+https://tiger-hub.vercel.app/SONY/Sports-5/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Sony wah
+https://tiger-hub.vercel.app/SONY/Wah/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Sony Yay
+https://tiger-hub.vercel.app/SONY/YAY/tracks-v1a1/mono.ts.m3u8
+
 
 
 
@@ -490,6 +591,17 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1,Espn
 https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/3.m3u8
 
+#EXTINF:-1, Hub_Sports-1
+https://tiger-hub.vercel.app/Hub_Sports-1/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Hub_Sports-2
+https://tiger-hub.vercel.app/Hub_Sports-2/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Hub_Sports-3
+https://tiger-hub.vercel.app/Hub_Sports-3/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Hub_Sports-4
+https://tiger-hub.vercel.app/Hub_Sports-4/tracks-v1a1/mono.ts.m3u8
 
 
 
