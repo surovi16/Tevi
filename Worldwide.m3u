@@ -142,7 +142,7 @@ http://38.96.178.201/live/RuposhiBangla/index.m3u8
 #EXTINF:-1,Akash AATH
 http://38.96.178.201/live/AkashAath/index.m3u8
 
-#EXTINF:-1,Sun Bangla
+#EXTINF:-1,T sports
 http://10.10.10.2/live/fnf002/index.m3u8
 
 #EXTINF:-1,Zee bangla
@@ -552,6 +552,44 @@ https://tiger-hub.vercel.app/Hub_Sports-3/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1, Hub_Sports-4
 https://tiger-hub.vercel.app/Hub_Sports-4/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1, Oddboods
+https://tiger-hub.vercel.app/kids_Zone/Oddboods/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Micky mouse
+https://tiger-hub.vercel.app/kids_Zone/Micky-mouse/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Tom&jerry
+https://tiger-hub.vercel.app/kids_Zone/Tom&Jerry/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Mighty Little bim
+https://tiger-hub.vercel.app/kids_Zone/Mighty-Little-Bim/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Marsha&the bear
+https://tiger-hub.vercel.app/kids_Zone/Marsha&theBear/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Larva
+https://tiger-hub.vercel.app/kids_Zone/Larva/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Grizzy&the lemmings
+https://tiger-hub.vercel.app/kids_Zone/Grizzy&the-Lemmings/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Angry bird
+https://tiger-hub.vercel.app/kids_Zone/Angry-birds/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Angry Birds
+https://tiger-hub.vercel.app/kids_Zone/Angry-birds--Blue/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Angry Birds blue
+https://tiger-hub.vercel.app/kids_Zone/Spiderman-kids/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Shaun the sheep
+https://tiger-hub.vercel.app/kids_Zone/Shaun-the-sheep/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Pink panther
+https://tiger-hub.vercel.app/kids_Zone/Pink-Panther/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Oggy&the cockroach
+https://tiger-hub.vercel.app/kids_Zone/Oggy&cockroach/tracks-v1a1/mono.ts.m3u8
 
 
 
