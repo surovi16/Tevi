@@ -86,8 +86,6 @@ https://tvsen6.aynaott.com/rtv/tracks-v1a1/mono.ts.m3u8
 https://tvsen5.aynaott.com/tgUzpPc9r6xw/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1, SATV
 https://tvsen6.aynaott.com/satv/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1, T SPORTS 
-https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 #EXTINF:-1, Channel 24
 https://tvsen6.aynaott.com/channel24/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1, INDEPENDENT TV
@@ -124,41 +122,17 @@ https://tiger-hub.vercel.app/Star-jalsha/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1, Jalsha movies
 https://tiger-hub.vercel.app/Jalsha_movies/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1,Zee Bangla
-https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
-
 #EXTINF:-1, Colors bangla
 https://tiger-hub.vercel.app/Colors_bangla/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1, Colors Bangla Cinema
-https://tiger-hub.vercel.app/Colors-bangla-cinema/tracks-v1a1/mono.ts.m3u8
-
 #EXTINF:-1, Colors Bangla HD
 https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
-
-#EXTINF:-1,Ruposhi Bangla
-http://38.96.178.201/live/RuposhiBangla/index.m3u8
-
-#EXTINF:-1,Akash AATH
-http://38.96.178.201/live/AkashAath/index.m3u8
 
 #EXTINF:-1,T sports
 http://10.10.10.2/live/fnf002/index.m3u8
 
 #EXTINF:-1,Zee bangla
 http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
-
-#EXTINF:-1, Sun Bangla
-https://tiger-hub.vercel.app/Sun-bangla/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1, Sony Aath
-https://tiger-hub.vercel.app/Sony-aath/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1, Sangeet Bangla
-https://tiger-hub.vercel.app/Sangeet-Bangla/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1, Zee Bangla
-https://tiger-hub.vercel.app/Zee-bangla/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1, Zee Bangla Cinema
 https://tiger-hub.vercel.app/Zee-bangla-Cinema/tracks-v1a1/mono.ts.m3u8
@@ -181,11 +155,6 @@ https://tiger-hub.vercel.app/Star-Gold/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1, Star gold select
 https://tiger-hub.vercel.app/Star-gold__Select/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1, Star utsab
-https://tiger-hub.vercel.app/Star-_-Utsab/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1, Star utsab movies
-https://tiger-hub.vercel.app/Star__utsab--movies/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1, & TV
 https://tiger-hub.vercel.app/&TV/tracks-v1a1/mono.ts.m3u8
@@ -205,7 +174,7 @@ https://tiger-hub.vercel.app/Colors-Cineplex/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1, Colors TV
 https://tiger-hub.vercel.app/Colors-TV/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1, History tv Hindy
+#EXTINF:-1, History tv Hindi
 https://tiger-hub.vercel.app/History-tv-18_Hindy/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1, Zee Action
@@ -223,14 +192,11 @@ https://tiger-hub.vercel.app/Zee-Cinema-__/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1, Zee TV
 https://tiger-hub.vercel.app/Zee___tv-/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1, Zing
+#EXTINF:-1, india news
 https://tiger-hub.vercel.app/Zi-ng_/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1, Zing
+#EXTINF:-1, Z00m
 https://tiger-hub.vercel.app/Zoom-_-TV/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1, Sony Aath
-https://tiger-hub.vercel.app/SONY/Aath/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1, Sony BBC Earth
 https://tiger-hub.vercel.app/SONY/BBC_Earth/tracks-v1a1/mono.ts.m3u8
@@ -270,24 +236,12 @@ https://tiger-hub.vercel.app/SONY/SAB/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1,  Sony Sab UK
 https://tiger-hub.vercel.app/SONY/SAB-UK/tracks-v1a1/mono.ts.m3u8
- 
-#EXTINF:-1, Sony sports 1
-https://tiger-hub.vercel.app/SONY/Sports-1/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1, Sony sports 2
 https://tiger-hub.vercel.app/SONY/Sports-2/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1, Sony sports 5
-https://tiger-hub.vercel.app/SONY/Sports-5/tracks-v1a1/mono.ts.m3u8
-
 #EXTINF:-1, Sony wah
 https://tiger-hub.vercel.app/SONY/Wah/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1, Sony Yay
-https://tiger-hub.vercel.app/SONY/YAY/tracks-v1a1/mono.ts.m3u8
-
-
-
 
 
 
@@ -351,94 +305,8 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 #EXTINF:-1,AAKAASH-AATH
 https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/playlist.m3u8
 
-#EXTINF:-1,Sony AATH
-http://38.96.178.201/live/SonyAath/index.m3u8
-
-#EXTINF:-1,Sony aath 
-https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 
 
-
-#EXTINF:-1,Sony Yay
-https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
-
-#EXTINF:-1,Sony MAX HD
-https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
-
-#EXTINF:-1,Sony MAX
-https://tataplay.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8
-
-#EXTINF:-1,Sony SAB HD
-https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
-
-#EXTINF:-1,SET HD
-https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
-
-#EXTINF:-1,Sony HD
-http://38.96.178.201/live/SonyHD/index.m3u8
-
-#EXTINF:-1,Sony Pal
-https://tataplay.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
-
-#EXTINF:-1,Sony MAX 2
-https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
-
-#EXTINF:-1,Sony WAH
-https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
-
-#EXTINF:-1,Sony PIX HD
-https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
-
-#EXTINF:-1,Sony BBC Earth HD
-https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
-
-#EXTINF:-1,Zing
-https://live.drmlive-02.workers.dev/zee/zing.m3u8
-
-#EXTINF:-1,Zing
-http://38.96.178.201/live/Zing/index.m3u8
-
-#EXTINF:-1,Zee Cinema
-https://live.drmlive-02.workers.dev/zee/zeecinemahd.m3u8
-
-#EXTINF:-1,&TV
-http://38.96.178.201/live/AndTV/index.m3u8
-
-#EXTINF:-1,Star Plus
-http://38.96.178.201/live/StarPlus/index.m3u8
-
-#EXTINF:-1,Star Gold
-http://38.96.178.201/live/StarGold/index.m3u8
-
-#EXTINF:-1,SONY
-http://38.96.178.201/live/SONY/index.m3u8
-
-
-
-
-
-#EXTINF:-1,Disney XD
-http://38.96.178.201/live/DisneyXD/index.m3u8
-
-#EXTINF:-1,Nick Jr
-http://38.96.178.201/live/NickJr/index.m3u8
-
-#EXTINF:-1,Disney
-http://38.96.178.201/live/Disney/index.m3u8
-
-
-
-
-
-
-#EXTINF:-1,Sangeet Bangla
-http://38.96.178.201/live/SangeetBangla/index.m3u8
-
-#EXTINF:-1,Dhoom Music
-http://38.96.178.201/live/Dhoom/index.m3u8
-
-#EXTINF:-1,B4U Music
-http://38.96.178.201/live/B4UMusic/index.m3u8
 
 #EXTINF:-1,9xm jawla
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/5680a6e4-5a99-4aa2-8fc0-cb035fec516a/0.m3u8
@@ -455,12 +323,6 @@ https://sabliveyupp.akamaized.net/mastii/playlist.m3u8
 #EXTINF:-1,mtv
 http://212.102.60.231:80/MTV_LIVE/index.m3u8
 
-
-
-
-
-
-
 #EXTINF:-1,Animal planet
 http://212.102.60.231:80/Animal_Planet/index.m3u8
 
@@ -470,17 +332,8 @@ https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1,Whoa That Was Wild (EU)
 https://newsflare-whoathatwaswild-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
-#EXTINF:-1,DISCOVERY CHANNEL
-http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
-
-#EXTINF:-1,Love Nature 
-https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-
 #EXTINF:-1,Travel4k
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
-
-
-
 
 #EXTINF:-1,Hum Sitaray
 https://live.thebosstv.com:30443/dwlive/HUM-SITARAY/playlist.m3u8
@@ -490,6 +343,35 @@ https://live.thebosstv.com:30443/dwlive/EXP-ENTERTAINMENT/playlist.m3u8
 
 
 
+#EXTINF:-1,MTV HD 
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_MTVHD/JCHLS/index.m3u8
+
+#EXTINF:-1,Nick Hd
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_NickHD/JCHLS/index.m3u8
+#EXTINF:-1,Colors Cineplex HD
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexHD/JCHLS/index.m3u8
+#EXTINF:-1,Colors Cineplex Superhit
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexSuperhit/JCHLS/index.m3u8
+#EXTINF:-1,Colors Cineplex Bollywood
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexBollywood/JCHLS/index.m3u8
+#EXTINF:-1,Colors Infinity HD
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsInfinityHD/JCHLS/index.m3u8
+#EXTINF:-1,Colors HD
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsHD/JCHLS/index.m3u8
+#EXTINF:-1,ColorsBanglaHD
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsBanglaHD/JCHLS/index.m3u8
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
 #EXTINF:-1,
 
 
@@ -506,6 +388,51 @@ https://live.thebosstv.com:30443/dwlive/EXP-ENTERTAINMENT/playlist.m3u8
 #EXTINF:-1,
 
 #EXTINF:-1,
+
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
 
 
 
@@ -514,31 +441,14 @@ https://live.thebosstv.com:30443/dwlive/EXP-ENTERTAINMENT/playlist.m3u8
 #EXTINF:-1,Aljazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
-
-
-#EXTINF:-1, being sport 2
+#EXTINF:-1, Sonysport 2
 http://10.10.10.2/live/fnf001/index.m3u8
 
 #EXTINF:-1, Star Sport 1
 http://10.10.10.2/live/fnf004/index.m3u8 
 
-#EXTINF:-1,SONY SPORTS 1
-https://tataplay.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8
-
-#EXTINF:-1,Tsports
-https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
-
-#EXTINF:-1,DD Sports
-http://38.96.178.201/live/DDSports/index.m3u8
-
-#EXTINF:-1,Ten sports 
-https://c4s22.vfruitfairy.com/com3/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1,Being Sport Extra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-
-#EXTINF:-1,Espn
-https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/3.m3u8
 
 #EXTINF:-1, Hub_Sports-1
 https://tiger-hub.vercel.app/Hub_Sports-1/tracks-v1a1/mono.ts.m3u8
@@ -579,7 +489,7 @@ https://tiger-hub.vercel.app/kids_Zone/Angry-birds/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1, Angry Birds
 https://tiger-hub.vercel.app/kids_Zone/Angry-birds--Blue/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1, Angry Birds blue
+#EXTINF:-1, Spidy
 https://tiger-hub.vercel.app/kids_Zone/Spiderman-kids/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1, Shaun the sheep
@@ -588,17 +498,8 @@ https://tiger-hub.vercel.app/kids_Zone/Shaun-the-sheep/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1, Pink panther
 https://tiger-hub.vercel.app/kids_Zone/Pink-Panther/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1, Oggy&the cockroach
-https://tiger-hub.vercel.app/kids_Zone/Oggy&cockroach/tracks-v1a1/mono.ts.m3u8
-
-
-
 #EXTINF:-1, 24/7 Bangla Waz
 https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
-
-
-
-
 
 #EXTINF:-1, 24/7 Bantul The Great
 https://cloudfrontnet.vercel.app/tplay/playout/209869/master.m3u8
@@ -609,7 +510,7 @@ https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 #EXTINF:-1, 24/7 Motu Patlu
 https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 
-#EXTINF:-1, 24/7 Shinchan
+#EXTINF:-1, 24/7 Musics
 https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8
 
 #EXTINF:-1, 24/7 Doraemon
